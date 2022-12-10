@@ -34,6 +34,8 @@ while True :
             break
     else :
         break
+    else: 
+        print("invalid")
 
 
 
